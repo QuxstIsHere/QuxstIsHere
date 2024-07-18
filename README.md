@@ -1,41 +1,35 @@
-# Beryllium Resource Pack
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
 
-## Description
-Beryllium is a performance-enhancing resource pack for Minecraft Bedrock Edition. This pack aims to improve the game's visuals while optimizing frame rates and overall performance.
+---
 
-## Features
-- Custom models for blocks and items.
-- Optimized shaders for better rendering.
-- Localization support in multiple languages:
-  - English
-  - Korean
-  - Brazilian Portuguese
-  - European Portuguese
-  - Spanish
-  - Dutch
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## Installation
-1. Download the Beryllium resource pack.
-2. Extract the files to your device.
-3. Copy the folder to your Minecraft `resource_packs` directory.
-   - **Windows**: `C:\Users\<YourUsername>\AppData\Local\Packages\Microsoft.MinecraftUWP_...\LocalState\games\com.mojang\resource_packs`
-   - **Mac**: `~/Library/Application Support/minecraft/resourcepacks`
-   - **Android**: `Internal Storage/games/com.mojang/resource_packs`
-   - **iOS**: `On My iPhone/Minecraft/games/com.mojang/resource_packs`
-4. Open Minecraft and navigate to Settings > Storage > Resource Packs.
-5. Activate the Beryllium resource pack.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Usage
-To use the Beryllium resource pack, ensure it is enabled in your resource pack settings. You can also combine it with compatible behavior packs to enhance gameplay further.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## Compatibility
-This resource pack is compatible with Minecraft Bedrock Edition version 1.16 and later. It has been tested on various servers to ensure functionality and performance.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## Support
-For issues or suggestions, please open an issue on the GitHub repository or contact the author directly.
+**Desktop (please complete the following information):**
+ - OS: [e.g. Windows, MacOS, Linux]
+ - Version [e.g. 22]
 
-## Author
-**QuxstIsHere**
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
 
-## License
-This resource pack is released under the MIT License. Feel free to use, modify, and distribute as needed.
+**Additional context**
+Add any other context about the problem here.
